@@ -8,5 +8,5 @@ The approach uses the following exome sequencing-based CNV callers:
 
 The workflow includes CNV calling, merging and random forest validation steps.
 
-For the CNV calling step alone, you can type git clone https://github.com/phelelani/nf-exomecnv.git.
+For the CNV calling step alone, you can type `git clone https://github.com/phelelani/nf-exomecnv.git`.
 This project is a collaboration of Phelelani Mpangase and Yoni Wolberg.
