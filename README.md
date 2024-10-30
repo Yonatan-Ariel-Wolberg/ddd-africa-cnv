@@ -1,4 +1,4 @@
-# ddd-africa-cnv
+# nf-ddd-africa-cnv
 A Nextflow workflow that integrates multiple CNV callers for improved CNV calling from exome sequencing data.
 
 The approach uses the following exome sequencing-based CNV callers:
